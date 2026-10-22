@@ -75,4 +75,12 @@ to the future of technology.
 
 ---
 
+
+<div align="center">
+  <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif"
+       alt="Tux Linux Coding"
+       width="200">
+</div>
+
+
 ⭐ **"Every line of code is an opportunity to learn."**
